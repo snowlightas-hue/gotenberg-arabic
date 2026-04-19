@@ -26,7 +26,6 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     fonts-noto-color-emoji \
     # خطوط عربية متخصصة
     fonts-hosny-amiri \
-    fonts-kacst \
     fonts-kacst-one \
     fonts-sil-scheherazade \
     fonts-arabeyes \
